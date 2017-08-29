@@ -1,8 +1,6 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/JerryZZW/JerryZZW.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a CS undergrad in San Francisco State University, expecting to graduate in 2018. My interest is in AI, business, desgin and story telling. My skills include html, css, javascript, java, c++, python, ui and web design and etc. Click here to view my [resume](https://docs.google.com/document/d/1k8kzXrE0PIU3JHlOcUSDZk9PNbncBW7LwH5nDWKovdQ/edit?usp=sharing) 
 
 ### Markdown
 
