@@ -1,6 +1,6 @@
 ## About me
 
-![](https://pbs.twimg.com/profile_images/864702580647116801/s_6CJnkQ_400x400.jpg =100x100)
+![](https://pbs.twimg.com/profile_images/864702580647116801/s_6CJnkQ_400x400.jpg){:height="36px" width="36px"}
 
 I am a CS undergrad in San Francisco State University, expecting to graduate in 2018.
 
