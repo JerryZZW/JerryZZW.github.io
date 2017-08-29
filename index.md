@@ -14,7 +14,15 @@ Email: zzhang5@mail.sfsu.edu
 
 Phone: 415-828-3853
 
+Github: [https://github.com/JerryZZW](https://github.com/JerryZZW)
+
 Facebook: [https://www.facebook.com/JerryZhewei](https://www.facebook.com/JerryZhewei)
+
+Linkein: [linkedin.com/in/zhewei-zhang-2a599b109](linkedin.com/in/zhewei-zhang-2a599b109)
+
+Twitter: [https://twitter.com/Jerry_ZZW](https://twitter.com/Jerry_ZZW)
+
+Instagram: [https://www.instagram.com/_jerry_z/](https://www.instagram.com/_jerry_z/)
 
 # Header 1
 ## Header 2
