@@ -10,7 +10,12 @@ Click here to view my [resume](https://docs.google.com/document/d/1k8kzXrE0PIU3J
 
 ### Contact me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: zzhang5@mail.sfsu.edu
+
+Phone: 415-828-3853
+
+Facebook: [https://www.facebook.com/JerryZhewei](https://www.facebook.com/JerryZhewei)
+
 
 ```markdown
 Syntax highlighted code block
