@@ -17,8 +17,6 @@ Phone: 415-828-3853
 Facebook: [https://www.facebook.com/JerryZhewei](https://www.facebook.com/JerryZhewei)
 
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
