@@ -6,7 +6,7 @@ My interest is in AI, business, desgin and story telling.
 
 My skills include html, css, javascript, java, c++, python, ui and web design and etc. 
 
-Click here to view my [resume](https://docs.google.com/document/d/1k8kzXrE0PIU3JHlOcUSDZk9PNbncBW7LwH5nDWKovdQ/edit?usp=sharing) .
+Click here to view my [resume](https://docs.google.com/document/d/1k8kzXrE0PIU3JHlOcUSDZk9PNbncBW7LwH5nDWKovdQ/edit?usp=sharing) or my [projects](https://github.com/JerryZZW?tab=repositories) .
 
 ### Contact me
 
