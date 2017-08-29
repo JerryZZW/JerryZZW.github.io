@@ -1,6 +1,6 @@
 ## About me
 
-![](https://pbs.twimg.com/profile_images/864702580647116801/s_6CJnkQ_400x400.jpg)
+![](https://pbs.twimg.com/profile_images/864702580647116801/s_6CJnkQ_400x400.jpg = 100x100)
 
 I am a CS undergrad in San Francisco State University, expecting to graduate in 2018.
 
@@ -8,7 +8,7 @@ My interest is in artificial intelligence, business, desgin and story telling.
 
 My skills include html, css, javascript, java, c++, python, ui and web design and etc. 
 
-Click here to view my [resume](https://docs.google.com/document/d/1k8kzXrE0PIU3JHlOcUSDZk9PNbncBW7LwH5nDWKovdQ/edit?usp=sharing) or my [projects](https://github.com/JerryZZW?tab=repositories) .
+Click here to view my [resume](https://docs.google.com/document/d/1k8kzXrE0PIU3JHlOcUSDZk9PNbncBW7LwH5nDWKovdQ/edit?usp=sharing) or [projects](https://github.com/JerryZZW?tab=repositories) .
 
 ### Contact me
 
