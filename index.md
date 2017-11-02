@@ -14,8 +14,6 @@ Click here to view my [resume](https://docs.google.com/document/d/1k8kzXrE0PIU3J
 
 Email: zzhang5@mail.sfsu.edu
 
-Phone: 415-828-3853
-
 Github: [https://github.com/JerryZZW](https://github.com/JerryZZW)
 
 Facebook: [https://www.facebook.com/JerryZhewei](https://www.facebook.com/JerryZhewei)
