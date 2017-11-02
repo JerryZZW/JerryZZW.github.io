@@ -2,7 +2,7 @@
 
 <img src="https://pbs.twimg.com/profile_images/864702580647116801/s_6CJnkQ_400x400.jpg" style="width: 200px;height=200px"/>
 
-I am a CS undergrad in San Francisco State University, expecting to graduate in 2018.
+I am a CS undergrad in San Francisco State University.
 
 My interest is in artificial intelligence, business, desgin and story telling.
 
